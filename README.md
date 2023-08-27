@@ -1,4 +1,4 @@
-# Natural Language Processing with LSTM and Transformers 
+# Natural Language Processing Intent Classification with LSTM, Custom + Glove Word Embeddings and Transformers 
 This repository contains code for performing natural language processing tasks using LSTM and Transformers models. The code demonstrates how to preprocess text data, build LSTM models, and fine-tune Transformers models for sequence classification tasks.
 
 ## Introduction
